@@ -1,2 +1,3 @@
-# mini-task-manager-z2no
-Automated issue comment bot repository
+# Mini Task Manager Z2No
+
+Automated issue comment bot repository.
